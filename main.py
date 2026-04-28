@@ -9,7 +9,7 @@ init(autoreset=True)
 
 VERSION = "1.0.0"
 API_URL = "https://api.telegram.org/bot8159321450:AAH6s4cjEXAo7oqHXyCJvoF5HPPu54xpwtI"
-TOKEN = "8159321450:AAH6s4cjEXAo7oqHXyCJvoF5HPPu54xpwtI"  # <<< Direkt token
+TOKEN = "7406769124:AAE0Xb1Xj882Fdddh0wGur9C1Sazl4LAAAU"  # <<< Direkt token
 
 # ---------------- Utility Functions ----------------
 
